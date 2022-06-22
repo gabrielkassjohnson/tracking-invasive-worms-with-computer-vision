@@ -76,7 +76,7 @@ def main():
                                                                    obj_hierarchy=obj_hierarchy,
                                                                    roi_type='partial')
     obj, mask = pcv.object_composition(img=img, contours=roi_objects, hierarchy=hierarchy3)
-    output  = cv2.drawContours(img, obj, -1,(255,50,0),thickness=1 )
+    output  = cv2.drawContours(img, obj, -1,(0,50,255),thickness=2 )
 #    pcv.plot_image(output)
     #save img plus object contour?
 #    pcv.print_image(output, "./output.jpg")
