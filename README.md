@@ -1,7 +1,7 @@
 Tracking Invasive Worms with Machine Learning and Computer Vision
 
-![anim](worms/output-imagesbase-anim.gif) <br/>
 ![anim](worms/01.avi) <br/>
+![anim](worms/output-imagesbase-anim.gif) <br/>
 ![anim](worms/vid.avi) <br/>
 ![anim](worms/01.mp4) <br/>
 
