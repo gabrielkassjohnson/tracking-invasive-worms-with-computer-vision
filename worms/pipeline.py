@@ -44,9 +44,9 @@ def main():
 
     
     # Examine all colorspaces at one glance
-    colorspace_img = pcv.visualize.colorspaces(rgb_img=img)
-    outfile = args.outdir + "/colorspaces-" + filename
-    cv2.imwrite(outfile, colorspace_img)
+#    colorspace_img = pcv.visualize.colorspaces(rgb_img=img)
+#    outfile = args.outdir + "/colorspaces-" + filename
+#    cv2.imwrite(outfile, colorspace_img)
 
     l = pcv.rgb2gray_lab(rgb_img=img, channel='l')
     lback = pcv.rgb2gray_lab(rgb_img=background_img, channel='l')
