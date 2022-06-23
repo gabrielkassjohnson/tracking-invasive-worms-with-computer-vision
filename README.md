@@ -1,8 +1,5 @@
-Tracking Invasive Worms with Machine Learning and Computer Vision <br/>
-
-<img src="./worms/test.gif" /> <br/>
-
-
+## Tracking Invasive Worms with Machine Learning and Computer Vision 
+<img src="./worms/test.gif" />
 New England has an invasive worm problem, disrupting ecosystems and causing economic damage.
 Several visual characteristics of these Pheretimoid earthworms suggest the possibility 
 of using computer vision to identify them.
